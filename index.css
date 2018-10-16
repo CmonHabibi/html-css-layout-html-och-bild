@@ -1,1 +1,11 @@
+img#sea{
+  width: 100%;
+  max-width: 800px;
+  height: 100%;
+  max-height: 200px;
+}
 
+img#html{
+  width: 100%;
+  max-width: 300px;
+}
